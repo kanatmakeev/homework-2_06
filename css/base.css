@@ -1,0 +1,31 @@
+:root {
+  --text-font-weigth400: 400;
+  --text-font-weight700: 700;
+  --text-font-size: 18px;
+  --title-font-size: 20px;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Mulish", sans-serif;
+}
+body,
+div,
+p,
+ul,
+li,
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
